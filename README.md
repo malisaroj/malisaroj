@@ -18,7 +18,7 @@ I'm a **Computer Science & Engineering Researcher** passionate about **edge comp
 - **Federated Learning**  
 - **Distributed Systems**  
 - **Anomaly Detection Algorithms**  
-- **Machine Learning (LSTM, GRU, GANs)**  
+- **Machine Learning (Bi-LSTM, GRU, GANs)**  
 - **Python, TensorFlow, PyTorch**  
 - **Data Analysis & Visualization**  
 - **Cloud Integration (AWS, GCP)**  
@@ -28,7 +28,7 @@ I'm a **Computer Science & Engineering Researcher** passionate about **edge comp
 
 ## 📝 My Projects
 
-### 🔹 [Edge Computing with Federated Learning for Early Detection of Citric Acid Overdose](https://github.com/)
+### 🔹 [Edge Computing with Federated Learning for Early Detection of Citric Acid Overdose](https://github.com/malisaroj/crrt)
 - Focus: **Integrating federated learning and cloud-edge processing for real-time health monitoring**
 - Objective: Optimize detection accuracy and ensure robust regional anticoagulation adjustments.
 
@@ -61,7 +61,7 @@ I'm a **Computer Science & Engineering Researcher** passionate about **edge comp
 ## 💬 Let's Connect!
 
 - 📧 **Email:** [malisaroj@icloud.com](mailto:malisaroj@icloud.com)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/saroj-mali](https://www.linkedin.com/in/saroj-mali)  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/malisaroj](https://www.linkedin.com/in/malisaroj)  
 
 ---
 
