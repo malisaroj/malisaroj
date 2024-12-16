@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Saroj Mali
 
-I'm a **Computer Science & Engineering Researcher** passionate about **edge computing**, **federated learning**, and **real-time systems**. I specialize in optimizing resource allocation and latency reduction in distributed environments. Currently, I'm focused on research related to **IoT**, **AI**, and **machine learning** in edge computing environments.
+I'm a **AI Researcher** passionate about **edge computing**, **federated learning**, and **real-time systems**. I specialize in optimizing resource allocation and latency reduction in distributed environments. Currently, I'm focused on research related to **IoT**, **AI**, and **machine learning** in edge computing environments.
 
 ---
 
