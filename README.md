@@ -4,13 +4,6 @@ I'm a **AI Researcher** passionate about **edge computing**, **federated learnin
 
 ---
 
-## 💬 Let's Connect!
-
-- 📧 **Email:** [malisaroj@icloud.com](mailto:malisaroj@icloud.com)  
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/malisaroj](https://www.linkedin.com/in/malisaroj)  
-
----
-
 ⭐ **If you find my work interesting, feel free to explore, contribute, and collaborate!**
 
 ---
